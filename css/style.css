@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#slider-one{
+	
+}
+nav{
+	background-color: rgba(0,0,0,0.4);
+}
+nav img{
+	height: 35px;
+	border-radius: 15px;
+}
+.nav-link{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #fff;
+}
+.nav-link:hover{
+	color: tomato;
+}
+.carousel-inner img{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:auto;
+	width: 100%;
+
+} 
+#slider-two{
+	background-color:#f3e1e1;
+	height:auto;
+}
+.one{
+	text-align: center;
+	text-transform: capitalize;
+}
+.one button{
+	background-color:transparent;
+	border:1px solid gray;
+	color: black;
+	border-radius: 20px;
+	width: 20%;
+}
+#slider-three{
+	background-color:#f5f1f1;
+height:auto;
+
+}
+/*next row*/
+.two{
+	text-align: center;
+	text-transform: capitalize;
+	background-color:#1e9fad;
+}
+.three{
+	text-align: center;
+/*	height: 40vh;
+	width: 100%;*/
+}
+.three span{
+	color: green;
+	font-weight: bold;
+}
+.four1{
+	background-image:url(../images/bc22.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;		
+	height:auto;
+	text-align: center;
+	text-transform: capitalize;
+	border-radius: 10px;
+}
+.four1 button{
+	color: black;
+	background-color: tomato;
+	text-transform: uppercase;
+	border-radius: 25px;
+	margin-bottom: 30%;
+}
+.four1 button:hover{
+	color: #fff;
+	background-color: yellow;
+}
+.four2{
+	background-image:url(../images/bc4.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;		
+	height:auto;
+	text-align: center;
+	text-transform: capitalize;
+	border-radius: 10px;
+}
+
+.four2 button{
+	color: black;
+	background-color: tomato;
+	text-transform: uppercase;
+	border-radius: 25px;
+	margin-bottom:30%;
+}
+.four2 button:hover{
+	color: #fff;
+	background-color: yellow;
+}
+
+.five{
+	text-align: center;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+}
+.five h1{
+	font-weight: bold;
+}
+
+#slider-lst{
+	height: auto;
+	text-align:center;	
+
+}
+.hh img{
+	height: 20vh;
+}
+#slider-link{
+	background-image:url(../images/dd.jpg);
+	/*#524848;*/
+	height:auto;
+}
+.lst1{
+	text-align: center;
+	text-transform: capitalize;
+	color:lightgrey;
+}
+.lst1 h1{
+	color: yellow;
+}
+.had1 span{
+	color: tomato;
+}
+.lst1 h4{
+	color: #fff;
+	font-weight: bold;
+}
+.lst1 img{
+	height: 32px;
+}
+hr{
+	border: 2px solid #fff;
+}
